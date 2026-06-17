@@ -36,7 +36,7 @@ Para iniciar el servidor en modo desarrollo:
 
 [ x ] Implementar Core
 
-[  ] Implementar Schemas.
+[ x ] Implementar Schemas.
 
 [  ] Implementar Services.
 
